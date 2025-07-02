@@ -1,0 +1,15 @@
+# Node modules
+**/node_modules
+
+# Python
+**/__pycache__/
+**/*.pyc
+backend/venv/
+
+# Build
+dist/
+build/
+
+# Environment and config
+.env
+.DS_Store
